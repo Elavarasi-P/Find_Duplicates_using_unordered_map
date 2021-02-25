@@ -1,3 +1,7 @@
+//CODING ASSIGNMENT 2.1
+//FINDING DUPLICATES IN AN ARRAY USING UNORDERED MAP
+//Find all duplicates in an array and also the frequency of repetitive elements in O(n) runtime.
+
 #include<iostream>
 #include<unordered_map>
 #include<string>
